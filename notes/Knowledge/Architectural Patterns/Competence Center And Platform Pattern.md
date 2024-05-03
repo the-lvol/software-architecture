@@ -1,0 +1,2 @@
+# Competence Center And Platform Pattern
+A pattern that specializes in a software system’s work assignment structure. In the competence center, work is allocated to sites depending on the technical or domain expertise located at a site. For example, user-interface design is done at a site where usability engineering experts are located. In the platform, one site is tasked with developing reusable core assets of a software product line (see Chapter 25), and other sites develop applications that use the core assets

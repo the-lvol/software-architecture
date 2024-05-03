@@ -1,0 +1,25 @@
+# 6 Agile Architecture
+- [[Agile Software Development]] (Not even scrum is Agile :0 )
+- [[SCRUM]]
+- [[Kanban]]
+- [[DevOps]]
+- [[SAFE]]
+- Others (just a list, don't think we need that deep of an understanding)
+  - [[ScrumBan]]
+  - [[Scrum-But]]
+  - [[Spotify Model]]
+  - [[Extreme Programming]]
+- [[Agile Architectures]]
+- [[Agile Qualities]]
+- [[Agile Architecture Structure]]
+- [[Architectural Runaway]]
+  - [[Feauter]]
+  - [[Enabler]]
+  - Up-front or intentional architecture
+  - Emerging or evolving architecture
+- [[Horizontal vs. vertical system decomposition]]
+  - Horizontal Decomposition
+  - Enhanced Horizontal Decomposition
+  - Vertical Decomposition
+- [[Architecture, Structure, Production Infrastructure (ASP)]]
+- [[Conway's Law]]

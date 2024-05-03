@@ -1,0 +1,28 @@
+# Agile in Distress: Architecture to the Rescue
+See [[Agile in Distress Architecture to the Rescue.pdf]]
+
+## Keywords
+- [[Architectural Tactic]]
+  - [[System Decomposition Tactic]]
+  - [[Matrix Team Tactic]]
+  - [[Congruence Tactic]]
+  - [[Coordination Tactic]]
+- [[Agile Architectures]]
+- [[Architecture, Structure, Production Infrastructure (ASP)]]
+  - [[Socio-Technical Congruence]]
+    - [[Technical Debt]]
+    - [[Social Debt]]
+  - [[DevOps]]
+    - [[Infrastructure Debt]]
+- [[Work Assignment Allocation View]] (A Tactic?)
+- [[Horizontal System Decomposition]]
+- [[Vertical System Decomposition]]
+  - [[Feature-Based Vertical System Decomposition]]
+- [[Conway's Law]]
+- [[Coordination View]]
+- [[Architecture Runway]]
+- [[Infrastructure Runway]]
+- [[Deployability Tactic]]
+  - [[Parameterization]]
+  - [[Self-Monitoring]]
+  - [[Self-Initiated Version Update]]

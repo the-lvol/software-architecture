@@ -1,15 +1,22 @@
 {
-	"name": "template",
-	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.19",
+	"name": "Node.js & TypeScript",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/devcontainers/features/python:1": {}
+	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"github.copilot-chat",
 				"github.copilot",
 				"github.vscode-pull-request-github",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"ms-vscode.vscode-typescript-next",
+				"ms-python.python"
 			]
 		}
 	},
-	"postCreateCommand": "bash .devcontainer/setup.sh"
+	"postCreateCommand": "bash .devcontainer/setup.sh",
+	"remoteUser": "root"
 }

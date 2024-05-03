@@ -1,0 +1,26 @@
+# Analysis and Design of Software Ecosystem Architecture
+See [[Analysis and Design of Software Ecosystem Architecture.pdf]]
+
+## Keywords
+- [[Software Ecosystems (SECOs)]]
+- [[Software Ecosystem Architecture]]
+- [[Organizational Strucures]]
+- [[Business Structures]]
+- [[Software Structures]]
+- Good Examples of Scenarios
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
