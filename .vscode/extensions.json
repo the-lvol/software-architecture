@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "github.copilot-chat",
+        "github.copilot",
+        "github.vscode-pull-request-github",
+        "github.vscode-github-actions",
+        "aaron-bond.better-comments",
+        "alefragnani.bookmarks",
+        "ms-vscode-remote.remote-containers",
+        "yzhang.markdown-all-in-one"
+    ]
+}

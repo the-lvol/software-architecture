@@ -1,0 +1,15 @@
+{
+	"name": "template",
+	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.19",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"github.copilot-chat",
+				"github.copilot",
+				"github.vscode-pull-request-github",
+				"github.vscode-github-actions"
+			]
+		}
+	},
+	"postCreateCommand": "bash .devcontainer/setup.sh"
+}
