@@ -1,0 +1,554 @@
+{
+    "packages/ui/": {
+        "lines": {
+            "total": 118,
+            "covered": 114,
+            "skipped": 0,
+            "pct": 96.61
+        },
+        "statements": {
+            "total": 127,
+            "covered": 122,
+            "skipped": 0,
+            "pct": 96.06
+        },
+        "functions": {
+            "total": 20,
+            "covered": 17,
+            "skipped": 0,
+            "pct": 85
+        },
+        "branches": {
+            "total": 94,
+            "covered": 55,
+            "skipped": 0,
+            "pct": 58.51
+        },
+        "branchesTrue": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Alert/Alert.tsx": {
+        "lines": {
+            "total": 18,
+            "covered": 18,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 19,
+            "covered": 19,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 12,
+            "covered": 11,
+            "skipped": 0,
+            "pct": 91.66
+        }
+    },
+    "packages/ui/src/components/Button/Button.tsx": {
+        "lines": {
+            "total": 19,
+            "covered": 19,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 20,
+            "covered": 20,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 38,
+            "covered": 25,
+            "skipped": 0,
+            "pct": 65.78
+        }
+    },
+    "packages/ui/src/components/Icon/IconBase.tsx": {
+        "lines": {
+            "total": 22,
+            "covered": 21,
+            "skipped": 0,
+            "pct": 95.45
+        },
+        "functions": {
+            "total": 3,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 22,
+            "covered": 21,
+            "skipped": 0,
+            "pct": 95.45
+        },
+        "branches": {
+            "total": 39,
+            "covered": 17,
+            "skipped": 0,
+            "pct": 43.58
+        }
+    },
+    "packages/ui/src/components/Icon/IconContext.tsx": {
+        "lines": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconAlertOctagon/IconAlertOctagon.tsx": {
+        "lines": {
+            "total": 4,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 4,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconAlertOctagon/index.tsx": {
+        "lines": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconAlertTriangle/IconAlertTriangle.tsx": {
+        "lines": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconAlertTriangle/index.tsx": {
+        "lines": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconCheckCircle/IconCheckCircle.tsx": {
+        "lines": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconCheckCircle/index.tsx": {
+        "lines": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconInfo/IconInfo.tsx": {
+        "lines": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconInfo/index.tsx": {
+        "lines": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconX/IconX.tsx": {
+        "lines": {
+            "total": 4,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 4,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/Icon/icons/IconX/index.tsx": {
+        "lines": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/components/NavMenu/index.tsx": {
+        "lines": {
+            "total": 6,
+            "covered": 6,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 7,
+            "covered": 7,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 4,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 50
+        }
+    },
+    "packages/ui/src/components/ThemeProvider/ThemeProvider.tsx": {
+        "lines": {
+            "total": 3,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 3,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/lib/constants.ts": {
+        "lines": {
+            "total": 5,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 5,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/lib/theme/defaultTheme.ts": {
+        "lines": {
+            "total": 5,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 5,
+            "covered": 5,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "packages/ui/src/lib/theme/styleHandler.ts": {
+        "lines": {
+            "total": 9,
+            "covered": 9,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 10,
+            "covered": 9,
+            "skipped": 0,
+            "pct": 90
+        },
+        "branches": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "packages/ui/src/lib/utils/cn.ts": {
+        "lines": {
+            "total": 4,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 4,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    }
+}

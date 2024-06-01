@@ -1,0 +1,814 @@
+{
+    "apps/studio": {
+        "lines": {
+            "total": 758,
+            "covered": 283,
+            "skipped": 0,
+            "pct": 37.33
+        },
+        "statements": {
+            "total": 914,
+            "covered": 307,
+            "skipped": 0,
+            "pct": 33.58
+        },
+        "functions": {
+            "total": 143,
+            "covered": 38,
+            "skipped": 0,
+            "pct": 26.57
+        },
+        "branches": {
+            "total": 425,
+            "covered": 79,
+            "skipped": 0,
+            "pct": 18.58
+        },
+        "branchesTrue": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/interfaces/Auth/Auth.constants.ts": {
+        "lines": {
+            "total": 6,
+            "covered": 6,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 7,
+            "covered": 7,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/interfaces/Reports/ReportWidget.tsx": {
+        "lines": {
+            "total": 18,
+            "covered": 6,
+            "skipped": 0,
+            "pct": 33.33
+        },
+        "functions": {
+            "total": 2,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 19,
+            "covered": 6,
+            "skipped": 0,
+            "pct": 31.57
+        },
+        "branches": {
+            "total": 13,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/components/interfaces/SQLEditor/SQLEditor.constants.ts": {
+        "lines": {
+            "total": 6,
+            "covered": 6,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 11,
+            "covered": 7,
+            "skipped": 0,
+            "pct": 63.63
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/interfaces/SQLEditor/SQLEditor.types.ts": {
+        "lines": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/interfaces/SQLEditor/SQLEditor.utils.ts": {
+        "lines": {
+            "total": 31,
+            "covered": 12,
+            "skipped": 0,
+            "pct": 38.7
+        },
+        "functions": {
+            "total": 11,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 18.18
+        },
+        "statements": {
+            "total": 42,
+            "covered": 13,
+            "skipped": 0,
+            "pct": 30.95
+        },
+        "branches": {
+            "total": 32,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/components/interfaces/TableGridEditor/SidePanelEditor/SidePanelEditor.constants.ts": {
+        "lines": {
+            "total": 12,
+            "covered": 11,
+            "skipped": 0,
+            "pct": 91.66
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 22,
+            "covered": 13,
+            "skipped": 0,
+            "pct": 59.09
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/interfaces/TableGridEditor/SidePanelEditor/RowEditor/RowEditor.utils.ts": {
+        "lines": {
+            "total": 99,
+            "covered": 25,
+            "skipped": 0,
+            "pct": 25.25
+        },
+        "functions": {
+            "total": 15,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 20
+        },
+        "statements": {
+            "total": 110,
+            "covered": 27,
+            "skipped": 0,
+            "pct": 24.54
+        },
+        "branches": {
+            "total": 109,
+            "covered": 20,
+            "skipped": 0,
+            "pct": 18.34
+        }
+    },
+    "apps/studio/components/interfaces/TableGridEditor/SidePanelEditor/SpreadsheetImport/SpreadsheetImport.constants.ts": {
+        "lines": {
+            "total": 3,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 6,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 50
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/interfaces/TableGridEditor/SidePanelEditor/SpreadsheetImport/SpreadsheetImport.utils.ts": {
+        "lines": {
+            "total": 81,
+            "covered": 10,
+            "skipped": 0,
+            "pct": 12.34
+        },
+        "functions": {
+            "total": 20,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 92,
+            "covered": 10,
+            "skipped": 0,
+            "pct": 10.86
+        },
+        "branches": {
+            "total": 32,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/components/to-be-cleaned/Storage/StorageSettings/StorageSettings.constants.ts": {
+        "lines": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 1,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 3,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 66.66
+        },
+        "branches": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/to-be-cleaned/Storage/StorageSettings/StorageSettings.utils.ts": {
+        "lines": {
+            "total": 13,
+            "covered": 13,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 2,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 17,
+            "covered": 17,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 13,
+            "covered": 12,
+            "skipped": 0,
+            "pct": 92.3
+        }
+    },
+    "apps/studio/components/ui/CopyButton.tsx": {
+        "lines": {
+            "total": 13,
+            "covered": 13,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 5,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 80
+        },
+        "statements": {
+            "total": 17,
+            "covered": 16,
+            "skipped": 0,
+            "pct": 94.11
+        },
+        "branches": {
+            "total": 10,
+            "covered": 10,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/components/ui/Panel.tsx": {
+        "lines": {
+            "total": 5,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 60
+        },
+        "functions": {
+            "total": 2,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 6,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 50
+        },
+        "branches": {
+            "total": 7,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/components/ui/Charts/Charts.constants.ts": {
+        "lines": {
+            "total": 7,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 57.14
+        },
+        "functions": {
+            "total": 3,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 33.33
+        },
+        "statements": {
+            "total": 10,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 40
+        },
+        "branches": {
+            "total": 4,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 50
+        }
+    },
+    "apps/studio/components/ui/Charts/Charts.utils.tsx": {
+        "lines": {
+            "total": 53,
+            "covered": 45,
+            "skipped": 0,
+            "pct": 84.9
+        },
+        "functions": {
+            "total": 18,
+            "covered": 14,
+            "skipped": 0,
+            "pct": 77.77
+        },
+        "statements": {
+            "total": 63,
+            "covered": 51,
+            "skipped": 0,
+            "pct": 80.95
+        },
+        "branches": {
+            "total": 25,
+            "covered": 13,
+            "skipped": 0,
+            "pct": 52
+        }
+    },
+    "apps/studio/lib/gotrue.ts": {
+        "lines": {
+            "total": 44,
+            "covered": 20,
+            "skipped": 0,
+            "pct": 45.45
+        },
+        "functions": {
+            "total": 7,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 28.57
+        },
+        "statements": {
+            "total": 52,
+            "covered": 21,
+            "skipped": 0,
+            "pct": 40.38
+        },
+        "branches": {
+            "total": 17,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 23.52
+        }
+    },
+    "apps/studio/lib/helpers.ts": {
+        "lines": {
+            "total": 131,
+            "covered": 34,
+            "skipped": 0,
+            "pct": 25.95
+        },
+        "functions": {
+            "total": 30,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 13.33
+        },
+        "statements": {
+            "total": 162,
+            "covered": 36,
+            "skipped": 0,
+            "pct": 22.22
+        },
+        "branches": {
+            "total": 63,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 4.76
+        }
+    },
+    "apps/studio/lib/password-strength.ts": {
+        "lines": {
+            "total": 23,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 13.04
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 23,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 13.04
+        },
+        "branches": {
+            "total": 14,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/uuid.ts": {
+        "lines": {
+            "total": 4,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 75
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 5,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 60
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/lib/common/fetch/base.ts": {
+        "lines": {
+            "total": 52,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 1.92
+        },
+        "functions": {
+            "total": 7,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 54,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 1.85
+        },
+        "branches": {
+            "total": 29,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/common/fetch/delete.ts": {
+        "lines": {
+            "total": 11,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 18.18
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 12,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 16.66
+        },
+        "branches": {
+            "total": 3,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/common/fetch/get.ts": {
+        "lines": {
+            "total": 24,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 12.5
+        },
+        "functions": {
+            "total": 3,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 27,
+            "covered": 3,
+            "skipped": 0,
+            "pct": 11.11
+        },
+        "branches": {
+            "total": 8,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/common/fetch/head.ts": {
+        "lines": {
+            "total": 24,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 8.33
+        },
+        "functions": {
+            "total": 3,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 27,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 7.4
+        },
+        "branches": {
+            "total": 8,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/common/fetch/index.ts": {
+        "lines": {
+            "total": 7,
+            "covered": 7,
+            "skipped": 0,
+            "pct": 100
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 7,
+            "covered": 7,
+            "skipped": 0,
+            "pct": 100
+        },
+        "branches": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        }
+    },
+    "apps/studio/lib/common/fetch/patch.ts": {
+        "lines": {
+            "total": 11,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 18.18
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 12,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 16.66
+        },
+        "branches": {
+            "total": 3,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/common/fetch/post.ts": {
+        "lines": {
+            "total": 11,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 18.18
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 12,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 16.66
+        },
+        "branches": {
+            "total": 3,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/common/fetch/put.ts": {
+        "lines": {
+            "total": 11,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 18.18
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 12,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 16.66
+        },
+        "branches": {
+            "total": 3,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        }
+    },
+    "apps/studio/lib/constants/index.ts": {
+        "lines": {
+            "total": 17,
+            "covered": 15,
+            "skipped": 0,
+            "pct": 88.23
+        },
+        "functions": {
+            "total": 1,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 0
+        },
+        "statements": {
+            "total": 30,
+            "covered": 15,
+            "skipped": 0,
+            "pct": 50
+        },
+        "branches": {
+            "total": 12,
+            "covered": 8,
+            "skipped": 0,
+            "pct": 66.66
+        }
+    },
+    "apps/studio/lib/constants/infrastructure.ts": {
+        "lines": {
+            "total": 19,
+            "covered": 16,
+            "skipped": 0,
+            "pct": 84.21
+        },
+        "functions": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": 100
+        },
+        "statements": {
+            "total": 31,
+            "covered": 16,
+            "skipped": 0,
+            "pct": 51.61
+        },
+        "branches": {
+            "total": 4,
+            "covered": 2,
+            "skipped": 0,
+            "pct": 50
+        }
+    },
+    "apps/studio/tests/helpers.tsx": {
+        "lines": {
+            "total": 19,
+            "covered": 11,
+            "skipped": 0,
+            "pct": 57.89
+        },
+        "functions": {
+            "total": 6,
+            "covered": 4,
+            "skipped": 0,
+            "pct": 66.66
+        },
+        "statements": {
+            "total": 22,
+            "covered": 12,
+            "skipped": 0,
+            "pct": 54.54
+        },
+        "branches": {
+            "total": 9,
+            "covered": 1,
+            "skipped": 0,
+            "pct": 11.11
+        }
+    }
+}

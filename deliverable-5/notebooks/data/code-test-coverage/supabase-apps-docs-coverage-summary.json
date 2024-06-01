@@ -1,0 +1,60 @@
+{
+    "apps/docs/": {
+        "lines": {
+            "total": 52,
+            "covered": 31,
+            "skipped": 0,
+            "pct": 59.61
+        },
+        "statements": {
+            "total": 62,
+            "covered": 37,
+            "skipped": 0,
+            "pct": 59.67
+        },
+        "functions": {
+            "total": 15,
+            "covered": 9,
+            "skipped": 0,
+            "pct": 60
+        },
+        "branches": {
+            "total": 26,
+            "covered": 19,
+            "skipped": 0,
+            "pct": 73.07
+        },
+        "branchesTrue": {
+            "total": 0,
+            "covered": 0,
+            "skipped": 0,
+            "pct": "Unknown"
+        }
+    },
+    "apps/docs/components/CustomHTMLElements/CustomHTMLElements.utils.ts": {
+        "lines": {
+            "total": 52,
+            "covered": 31,
+            "skipped": 0,
+            "pct": 59.61
+        },
+        "functions": {
+            "total": 15,
+            "covered": 9,
+            "skipped": 0,
+            "pct": 60
+        },
+        "statements": {
+            "total": 62,
+            "covered": 37,
+            "skipped": 0,
+            "pct": 59.67
+        },
+        "branches": {
+            "total": 26,
+            "covered": 19,
+            "skipped": 0,
+            "pct": 73.07
+        }
+    }
+}

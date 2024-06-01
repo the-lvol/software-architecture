@@ -104,14 +104,15 @@ Not part of the intended learning outcomes. Don't know if it is curriculum then
 
 ### Exercises
 
-## Week x xx/yy-24 - TODO
+## Week x 05/6-24 - Legacy systems & Ethics & Closing
+Ethics are not a part of the curriculum
 
 ### Readings
+- [ ] Slides [[14 - Legacy Systems & Ethics & Closing]]
+- [ ] [[Working effectively with legacy code]]
+- [ ] [[Legacy information systems: issues and directions]]
 
 ### Exercises
 
-## Week x xx/yy-24 - TODO
-
-### Readings
-
-### Exercises
+### Exam Talks
+- For Konstantinos the group presentation is a requirement from the administration, and isn't important to him during the grading
